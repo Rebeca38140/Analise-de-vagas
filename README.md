@@ -54,3 +54,5 @@ Com base na análise, o grupo definiu as seguintes competências para desenvolve
 -	Hard Skill 1: Python – foco em automação, análise de dados e machine learning.
 -	Hard Skill 2: APIs REST – aprender a integrar sistemas e consumir dados externos.
 -	Soft Skill: Pensamento analítico – desenvolver a capacidade de resolver problemas complexos com lógica e clareza.
+
+https://www.linkedin.com/posts/rebeca-santos-664627206_a-plataforma-de-recrutamento-mais-r%C3%A1pida-activity-7371691934169423872-maoN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRq_OwBgzUvF51GJIgDktHgbYjuc5UI7CQ
